@@ -41,3 +41,7 @@
 	// }
 	// document.write("max:" + max);
 	// document.write("</br>max index: [" + maxInd[0] + "][" + maxInd[1] + "]");
+
+$('.carousel').carousel({
+	interval: 1000
+})

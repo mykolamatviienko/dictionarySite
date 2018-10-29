@@ -1,4 +1,4 @@
-#container {
+/*#container {
 	width: 500px;
 	height: 500px;
 	background: green;
@@ -9,4 +9,11 @@
 	height: 100px;
 	background: red;
 	position: absolute;
+}*/
+
+/*body{
+	height: 2000px;
+}*/
+.p-0{
+	padding: 0;
 }
