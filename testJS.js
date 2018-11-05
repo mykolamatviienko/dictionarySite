@@ -14,7 +14,7 @@
 
 	// while(true){
 	// 	console.log("+");
-	// } 
+	// }
 
 	// console.log("1");
 	// setTimeout(function(){
@@ -44,4 +44,9 @@
 
 $('.carousel').carousel({
 	interval: 1000
+})
+
+$('#exampleModal').modal({
+	backdrop: "static",
+	keyboard: false
 })
