@@ -17,3 +17,8 @@
 .p-0{
 	padding: 0;
 }
+
+#container-fluid{
+	width: 100%;
+	height: 100%;
+}
